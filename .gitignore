@@ -2,3 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
+test.csv
+train.csv
+submission-r-h2o.csv
